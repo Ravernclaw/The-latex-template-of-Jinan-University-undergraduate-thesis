@@ -1,0 +1,2 @@
+# The-latex-template-of-Jinan-University-undergraduate-thesis
+这是一个野生的暨南大学本科毕业论文latex模版，格式与暨南大学信息科学技术学院计算机系毕业设计论文word格式保持一致
